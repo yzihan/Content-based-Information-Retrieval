@@ -1,0 +1,152 @@
+Dataset length=30
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.2821767330169678
+Classification accelerator calculation time cost: 0.002241373062133789
+Describing time cost: 0.031214475631713867
+Predicting time cost: 0.004864692687988281
+[(6, 0.44748038460665146), (20, 0.4474958118328694), (23, 0.4495053795610331)]
+[(8, 0.6663511339725848), (13, 0.6714781127553853), (6, 0.7003410800167388)]
+[(14, 0.36843364138024504), (4, 0.39034285517915557), (22, 0.394039941555669)]
+   index            image_path class_image predicted_class  correct
+0      0  ../data/bread/2.jfif       bread           bread     True
+1      1    ../data/cat/5.jfif         cat             car    False
+2      2  ../data/bread/3.jfif       bread            tree    False
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.2763650417327881
+Classification accelerator calculation time cost: 0.0006313323974609375
+Describing time cost: 0.03604245185852051
+Predicting time cost: 0.005567073822021484
+[(7, 0.49637768439078506), (4, 0.5826207045077068), (10, 0.5972499352427378)]
+[(23, 0.4812351418076965), (14, 0.5011174396413874), (2, 0.5149937963822849)]
+[(14, 0.3757904024861808), (7, 0.38168451276720056), (2, 0.39488930453063215)]
+   index             image_path class_image predicted_class  correct
+0      3  ../data/bridge/3.jfif      bridge             cat    False
+1      4   ../data/bread/4.jfif       bread            tree    False
+2      5    ../data/tree/2.jfif        tree            tree     True
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.30161452293395996
+Classification accelerator calculation time cost: 0.0006146430969238281
+Describing time cost: 0.03809046745300293
+Predicting time cost: 0.006837129592895508
+[(5, 0.5149505742923003), (12, 0.5195608028688278), (18, 0.5325357833130545)]
+[(7, 0.3788208813848201), (2, 0.39034285517915557), (22, 0.4386929531780142)]
+[(22, 0.6039899222112276), (14, 0.624673514237914), (23, 0.6282331341440938)]
+   index             image_path class_image predicted_class  correct
+0      6  ../data/bridge/5.jfif      bridge            tree    False
+1      7     ../data/dog/4.jfif         dog             cat    False
+2      8  ../data/bridge/4.jfif      bridge            tree    False
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.31886935234069824
+Classification accelerator calculation time cost: 0.0007379055023193359
+Describing time cost: 0.04037594795227051
+Predicting time cost: 0.006825685501098633
+[(12, 0.3780853007472194), (0, 0.44748038460665146), (7, 0.4540003596629756)]
+[(7, 0.3788208813848201), (5, 0.38168451276720056), (14, 0.39689591133525787)]
+[(18, 0.4592713128862527), (19, 0.45959783144648075), (12, 0.46298802090290153)]
+   index            image_path class_image predicted_class  correct
+0      9  ../data/bread/5.jfif       bread           bread     True
+1     10    ../data/cat/3.jfif         cat            tree    False
+2     11    ../data/car/3.jfif         car          bridge    False
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.31307482719421387
+Classification accelerator calculation time cost: 0.0009737014770507812
+Describing time cost: 0.03978443145751953
+Predicting time cost: 0.007848262786865234
+[(17, 0.3804261757432143), (25, 0.4346136535225756), (2, 0.44594771546767553)]
+[(18, 0.31590616076058015), (11, 0.5193977985901923), (10, 0.5455671279973332)]
+[(17, 0.40824986773095157), (14, 0.4587655211941904), (25, 0.48381369525604645)]
+   index             image_path class_image predicted_class  correct
+0     12     ../data/cat/2.jfif         cat             cat     True
+1     13  ../data/bridge/1.jfif      bridge          bridge     True
+2     14     ../data/dog/1.jfif         dog             cat    False
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.32280874252319336
+Classification accelerator calculation time cost: 0.003095388412475586
+Describing time cost: 0.03982901573181152
+Predicting time cost: 0.008111238479614258
+[(9, 0.3780853007472194), (23, 0.4606304726540344), (11, 0.46298802090290153)]
+[(7, 0.45512525023646677), (17, 0.4780782875907412), (9, 0.48378004774762384)]
+[(22, 0.29852072982984573), (17, 0.32678668082454876), (23, 0.35055320121763384)]
+   index            image_path class_image predicted_class  correct
+0     15  ../data/bread/1.jfif       bread           bread     True
+1     16    ../data/dog/5.jfif         dog             dog     True
+2     17   ../data/tree/4.jfif        tree            tree     True
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.31751513481140137
+Classification accelerator calculation time cost: 0.0008006095886230469
+Describing time cost: 0.039279937744140625
+Predicting time cost: 0.00717473030090332
+[(25, 0.45106947192377506), (17, 0.5159908658886075), (5, 0.5161355846965875)]
+[(4, 0.614620023005136), (14, 0.6420704397002043), (24, 0.6693136640719602)]
+[(25, 0.314847934568353), (17, 0.32678668082454876), (12, 0.3804261757432143)]
+   index           image_path class_image predicted_class  correct
+0     18  ../data/tree/3.jfif        tree            tree     True
+1     19   ../data/dog/2.jfif         dog           bread    False
+2     20   ../data/cat/1.jfif         cat             dog    False
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.31362438201904297
+Classification accelerator calculation time cost: 0.0027205944061279297
+Describing time cost: 0.04021120071411133
+Predicting time cost: 0.008459329605102539
+[(13, 0.31590616076058015), (11, 0.4592713128862527), (15, 0.48246235682672983)]
+[(11, 0.45959783144648075), (9, 0.46626518138006756), (15, 0.5077426744602153)]
+[(0, 0.4474958118328694), (26, 0.49491418281117333), (9, 0.5278635755990412)]
+   index             image_path class_image predicted_class  correct
+0     21  ../data/bridge/2.jfif      bridge          bridge     True
+1     22     ../data/car/1.jfif         car           bread    False
+2     23     ../data/car/2.jfif         car           bread    False
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.32024335861206055
+Classification accelerator calculation time cost: 0.0008323192596435547
+Describing time cost: 0.03893685340881348
+Predicting time cost: 0.0062639713287353516
+[(23, 0.565614014605028), (22, 0.6003972219420578), (5, 0.6008452956500775)]
+[(17, 0.29852072982984573), (2, 0.394039941555669), (20, 0.4072291936977437)]
+[(17, 0.35055320121763384), (5, 0.4479702353289735), (0, 0.4495053795610331)]
+   index           image_path class_image predicted_class  correct
+0     24   ../data/car/5.jfif         car             car     True
+1     25  ../data/tree/1.jfif        tree            tree     True
+2     26  ../data/tree/5.jfif        tree            tree     True
+Start computing descriptors using SIFT. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 0.3218200206756592
+Classification accelerator calculation time cost: 0.0007688999176025391
+Describing time cost: 0.03944993019104004
+Predicting time cost: 0.007790565490722656
+[(9, 0.5138008505456716), (20, 0.5153751312918939), (17, 0.518922616629082)]
+[(20, 0.314847934568353), (17, 0.4215690056442142), (12, 0.4346136535225756)]
+[(23, 0.49491418281117333), (0, 0.5226427501234461), (6, 0.5435721456623586)]
+   index          image_path class_image predicted_class  correct
+0     27  ../data/cat/4.jfif         cat           bread    False
+1     28  ../data/dog/3.jfif         dog             cat    False
+2     29  ../data/car/4.jfif         car             car     True
+14 / 30

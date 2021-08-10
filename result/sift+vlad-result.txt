@@ -1,0 +1,172 @@
+Dataset length=30
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 8.719931364059448
+Classification accelerator calculation time cost: 0.06958222389221191
+Describing time cost: 0.002354860305786133
+Predicting time cost: 0.058800697326660156
+[(13, 1.3504526998757012), (1, 1.3842189500296265), (3, 1.389642331071373)]
+[(0, 1.3419368291577225), (20, 1.360608237672729), (10, 1.3670173254085853)]
+[(21, 1.3764218952003304), (0, 1.389601270230511), (3, 1.3897501034776396)]
+   index           image_path class_image predicted_class  correct
+0      0  ../data/tree/1.jfif        tree            tree     True
+1      1   ../data/car/4.jfif         car             car     True
+2      2   ../data/cat/3.jfif         cat             cat     True
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 9.736372709274292
+Classification accelerator calculation time cost: 0.001718759536743164
+Describing time cost: 0.0028095245361328125
+Predicting time cost: 0.04830622673034668
+[(1, 1.353973952568982), (12, 1.3703543342874431), (20, 1.3713221239537918)]
+[(13, 1.3812199535045762), (21, 1.386993387806511), (10, 1.3873658605501893)]
+[(8, 1.3125273320989694), (19, 1.3358895184458193), (11, 1.3561787758695671)]
+   index           image_path class_image predicted_class  correct
+0      3   ../data/car/2.jfif         car             car     True
+1      4  ../data/tree/4.jfif        tree            tree     True
+2      5   ../data/cat/5.jfif         cat             dog    False
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 9.714203834533691
+Classification accelerator calculation time cost: 0.0018432140350341797
+Describing time cost: 0.0023241043090820312
+Predicting time cost: 0.047800540924072266
+[(13, 1.3836891732009124), (0, 1.3886067006159075), (4, 1.3927717549183558)]
+[(5, 1.3532816713595597), (14, 1.3546516783753821), (1, 1.3577388929030703)]
+[(18, 1.3457575631660672), (15, 1.3631627376339193), (16, 1.3858592244173924)]
+   index            image_path class_image predicted_class  correct
+0      6  ../data/bread/3.jfif       bread            tree    False
+1      7    ../data/cat/4.jfif         cat             cat     True
+2      8  ../data/bread/5.jfif       bread             dog    False
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 9.838746786117554
+Classification accelerator calculation time cost: 0.018577098846435547
+Describing time cost: 0.002354145050048828
+Predicting time cost: 0.0477142333984375
+[(23, 1.334842289823191), (24, 1.3426332197871222), (3, 1.369482030936709)]
+[(22, 1.360086979568056), (12, 1.3609391998803806), (3, 1.3790622783590454)]
+[(5, 1.3048399055661941), (19, 1.3407724871912694), (14, 1.3489410494460972)]
+   index             image_path class_image predicted_class  correct
+0      9  ../data/bridge/5.jfif      bridge          bridge     True
+1     10  ../data/bridge/4.jfif      bridge             car    False
+2     11     ../data/dog/2.jfif         dog             cat    False
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 10.134170770645142
+Classification accelerator calculation time cost: 0.0018115043640136719
+Describing time cost: 0.002166271209716797
+Predicting time cost: 0.04444098472595215
+[(2, 1.3750518788803379), (1, 1.384513608614681), (21, 1.3865297342268639)]
+[(25, 1.3687425480424276), (5, 1.373027145041398), (1, 1.3736575567597953)]
+[(13, 1.3387567052784257), (5, 1.3708715036533021), (23, 1.3741897647848293)]
+   index           image_path class_image predicted_class  correct
+0     12   ../data/cat/2.jfif         cat             cat     True
+1     13   ../data/dog/4.jfif         dog           bread    False
+2     14  ../data/tree/3.jfif        tree            tree     True
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 9.982084035873413
+Classification accelerator calculation time cost: 0.017844200134277344
+Describing time cost: 0.002165079116821289
+Predicting time cost: 0.05231451988220215
+[(1, 1.3563807875528318), (22, 1.3689661096017596), (10, 1.373969726207353)]
+[(14, 1.328551791459034), (19, 1.349831255664972), (0, 1.3615782311587346)]
+[(1, 1.3386537929444786), (26, 1.357547604990215), (25, 1.358951518726521)]
+   index            image_path class_image predicted_class  correct
+0     15    ../data/car/5.jfif         car             car     True
+1     16   ../data/tree/2.jfif        tree            tree     True
+2     17  ../data/bread/2.jfif       bread             car    False
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 13.76405119895935
+Classification accelerator calculation time cost: 0.047849178314208984
+Describing time cost: 0.002557992935180664
+Predicting time cost: 0.059433698654174805
+[(6, 1.369160501349008), (11, 1.3693854444399511), (8, 1.3819373338359031)]
+[(1, 1.377876847514051), (7, 1.3788739103247623), (3, 1.3811506448271234)]
+[(8, 1.365643419150864), (6, 1.4008200306988585), (2, 1.401357924139905)]
+   index            image_path class_image predicted_class  correct
+0     18    ../data/dog/5.jfif         dog           bread    False
+1     19    ../data/dog/1.jfif         dog             car    False
+2     20  ../data/bread/1.jfif       bread           bread     True
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 10.201497077941895
+Classification accelerator calculation time cost: 0.0022449493408203125
+Describing time cost: 0.002933502197265625
+Predicting time cost: 0.04678201675415039
+[(8, 1.3662294754711497), (5, 1.3784100710495255), (13, 1.387977661257435)]
+[(5, 1.325399768186723), (11, 1.3658765565957671), (16, 1.3663047944752715)]
+[(3, 1.3639996449897749), (17, 1.3660635549261395), (1, 1.3661193750947662)]
+   index           image_path class_image predicted_class  correct
+0     21  ../data/tree/5.jfif        tree           bread    False
+1     22   ../data/dog/3.jfif         dog             cat    False
+2     23   ../data/car/1.jfif         car             car     True
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 8.69985318183899
+Classification accelerator calculation time cost: 0.03670644760131836
+Describing time cost: 0.003002643585205078
+Predicting time cost: 0.053431034088134766
+[(15, 1.38924590117603), (7, 1.3907640752669075), (3, 1.3917033955380864)]
+[(15, 1.3703804007853442), (12, 1.3807806338492776), (23, 1.3809376942959508)]
+[(26, 1.27863753011673), (9, 1.3249927033726956), (24, 1.3790996933882655)]
+   index             image_path class_image predicted_class  correct
+0     24     ../data/cat/1.jfif         cat             car    False
+1     25     ../data/car/3.jfif         car             car     True
+2     26  ../data/bridge/1.jfif      bridge          bridge     True
+Start computing descriptors using SIFT. Complete.
+Start clustering descriptors. Complete.
+Start computing vlad vectors. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 9.137627124786377
+Classification accelerator calculation time cost: 0.0625922679901123
+Describing time cost: 0.002170085906982422
+Predicting time cost: 0.06170201301574707
+[(9, 1.3365164009099362), (26, 1.3614650244998308), (1, 1.378359263013628)]
+[(17, 1.3688927037033423), (7, 1.3747544586128309), (11, 1.3788166207329955)]
+[(26, 1.2543012934360425), (17, 1.3712975383857364), (9, 1.3716720116697)]
+   index             image_path class_image predicted_class  correct
+0     27  ../data/bridge/3.jfif      bridge          bridge     True
+1     28   ../data/bread/4.jfif       bread           bread     True
+2     29  ../data/bridge/2.jfif      bridge          bridge     True
+18 / 30

@@ -1,0 +1,116 @@
+Dataset length=30
+Start computing descriptors using densenet161. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 14.124927282333374
+Classification accelerator calculation time cost: 0.0008068084716796875
+Describing time cost: 1.8899025917053223
+Predicting time cost: 0.01962423324584961
+[(4, 889.1152683307416), (3, 1318.2375553208512), (11, 1493.6285333322878)]
+[(4, 771.7184551277165), (11, 1034.9182891392786), (3, 1097.45304895217)]
+[(18, 1284.1581704365817), (13, 1558.3080043426833), (2, 1574.2350241578497)]
+[(14, 1690.2171296356164), (5, 1943.3164564594704), (17, 2376.250935493609)]
+[(2, 1087.742712023845), (9, 1169.931120869216), (0, 1249.7189669909328)]
+   index                        image_path class_image predicted_class  correct
+0      0     ../../data/car/2.jfif         car             car     True
+1      1     ../../data/car/4.jfif         car             car     True
+2      2  ../../data/bridge/1.jfif      bridge          bridge     True
+3      3     ../../data/dog/5.jfif         dog             dog     True
+4      4     ../../data/dog/3.jfif         dog             cat    False
+Start computing descriptors using densenet161. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 7.568966388702393
+Classification accelerator calculation time cost: 0.0014796257019042969
+Describing time cost: 1.6207377910614014
+Predicting time cost: 0.018167734146118164
+[(4, 1249.7189669909328), (9, 1519.1634812655168), (20, 2038.8295869935962)]
+[(8, 1400.1455890442232), (19, 1499.1923596708973), (18, 1671.1713624406111)]
+[(4, 1087.742712023845), (9, 1208.4785482128598), (23, 1441.036486831122)]
+[(6, 855.7520985444315), (18, 1041.7475009584414), (11, 1092.4810049507473)]
+[(1, 771.7184551277165), (0, 889.1152683307416), (11, 1210.4943488398358)]
+   index                     image_path class_image predicted_class  correct
+0      5  ../../data/cat/5.jfif         cat             dog    False
+1      6  ../../data/cat/4.jfif         cat          bridge    False
+2      7  ../../data/dog/2.jfif         dog             dog     True
+3      8  ../../data/car/5.jfif         car          bridge    False
+4      9  ../../data/car/1.jfif         car             car     True
+Start computing descriptors using densenet161. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 8.322636365890503
+Classification accelerator calculation time cost: 0.0007715225219726562
+Describing time cost: 1.5622448921203613
+Predicting time cost: 0.023609399795532227
+[(14, 1910.0141102962498), (3, 1943.3164564594704), (2, 2212.4045281359627)]
+[(8, 855.7520985444315), (15, 1044.9475053936358), (24, 1170.4303527883217)]
+[(11, 1196.146737357625), (23, 1212.0746904003142), (13, 1245.2055357719064)]
+[(24, 1179.2579535475074), (8, 1240.8852088317599), (15, 1284.780352911516)]
+[(4, 1169.931120869216), (7, 1208.4785482128598), (5, 1519.1634812655168)]
+   index                        image_path class_image predicted_class  correct
+0     10     ../../data/dog/1.jfif         dog             dog     True
+1     11  ../../data/bridge/3.jfif      bridge             car    False
+2     12    ../../data/tree/5.jfif        tree           bread    False
+3     13  ../../data/bridge/4.jfif      bridge          bridge     True
+4     14     ../../data/cat/2.jfif         cat             dog    False
+Start computing descriptors using densenet161. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 8.41438364982605
+Classification accelerator calculation time cost: 0.00077056884765625
+Describing time cost: 1.6448378562927246
+Predicting time cost: 0.017499208450317383
+[(21, 1184.3020741982648), (17, 1250.41282016473), (23, 1800.526993868169)]
+[(22, 912.9828653758025), (1, 1034.9182891392786), (18, 1082.8676946198123)]
+[(9, 1371.9510724819747), (22, 1400.9605748872848), (0, 1493.685201645092)]
+[(21, 639.402545901954), (17, 926.0689436743655), (23, 1133.5706625049222)]
+[(3, 1690.2171296356164), (10, 1910.0141102962498), (17, 2176.292811570459)]
+   index                       image_path class_image predicted_class  correct
+0     15  ../../data/bread/5.jfif       bread           bread     True
+1     16    ../../data/cat/3.jfif         cat             cat     True
+2     17    ../../data/car/3.jfif         car             car     True
+3     18  ../../data/bread/2.jfif       bread           bread     True
+4     19    ../../data/dog/4.jfif         dog             dog     True
+Start computing descriptors using densenet161. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 8.085796594619751
+Classification accelerator calculation time cost: 0.0007038116455078125
+Describing time cost: 1.1534197330474854
+Predicting time cost: 0.016193389892578125
+[(20, 957.1573240651015), (11, 1044.9475053936358), (8, 1240.9776995414193)]
+[(14, 1778.4538541503289), (4, 2116.64383962388), (2, 2131.707837028543)]
+[(18, 926.0689436743655), (22, 1142.6467272126442), (15, 1250.41282016473)]
+[(8, 1041.7475009584414), (16, 1082.8676946198123), (2, 1284.1581704365817)]
+   index                        image_path class_image predicted_class  correct
+0     20    ../../data/tree/4.jfif        tree            tree     True
+1     21    ../../data/tree/3.jfif        tree             cat    False
+2     22   ../../data/bread/4.jfif       bread           bread     True
+3     23  ../../data/bridge/2.jfif      bridge             car    False
+Start computing descriptors using densenet161. Complete.
+Setting up accelerator...
+Describing...
+Predicting...
+Dataset descriptor calculation time cost: 7.773334264755249
+Classification accelerator calculation time cost: 0.008916139602661133
+Describing time cost: 2.939281940460205
+Predicting time cost: 0.0222012996673584
+[(20, 957.1573240651015), (13, 1358.8839193731985), (6, 1499.1923596708973)]
+[(4, 1354.0169303292068), (12, 1457.924269502517), (7, 1536.1337109868293)]
+[(18, 639.402545901954), (22, 1142.6467272126442), (15, 1184.3020741982648)]
+[(16, 912.9828653758025), (1, 1306.4028583124752), (9, 1354.529154178998)]
+[(18, 1133.5706625049222), (12, 1212.0746904003142), (16, 1288.3889872623015)]
+[(8, 1115.4966367597594), (11, 1170.4303527883217), (13, 1179.2579535475074)]
+   index                        image_path class_image predicted_class  correct
+0     24    ../../data/tree/1.jfif        tree            tree     True
+1     25    ../../data/tree/2.jfif        tree             dog    False
+2     26   ../../data/bread/1.jfif       bread           bread     True
+3     27     ../../data/cat/1.jfif         cat             car    False
+4     28   ../../data/bread/3.jfif       bread           bread     True
+5     29  ../../data/bridge/5.jfif      bridge          bridge     True
+19 / 30
